@@ -1,7 +1,7 @@
 {
   "name": "DBTCDao_tokneList",
   "logoURI": "https://josa123.github.io/token-assets/logo.svg",
-  "keywords": ["DBTCED","token"],
+  "keywords": ["DAODBTC","token"],
   "timestamp": "2025-10-08T00:00:00Z",
   "version": { "major": 1, "minor": 0, "patch": 0 },
   "tokens": [
@@ -14,4 +14,5 @@
       "logoURI": "https://josat123.github.io/token-assets/logo.svg"
     }
   ]
+
 }
